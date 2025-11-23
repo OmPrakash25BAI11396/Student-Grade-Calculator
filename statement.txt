@@ -1,0 +1,30 @@
+Problem Statement : 
+Students often need a quick and accurate way to calculate their total marks, percentage, and grade across multiple subjects. Manual calculation is time-consuming and prone to errors. This project solves this by providing an automated Python-based grade calculator that computes results instantly and consistently.
+
+
+Scope of the Project : 
+ - The project focuses on taking marks for any number of subjects and performing academic evaluation.
+ - It calculates total marks, overall percentage, and assigns grades based on predefined criteria.
+ - The project is limited to numeric marks and simple percentage-based grading.
+
+Target Users : 
+ - School and college students
+ - Teachers who need quick evaluation tools
+ - Beginners learning Python programming
+ - Individuals creating small academic utilities or learning conditional logic
+
+High-Level Features : 
+ - Dynamic Subject Input: User can enter any number of subjects.
+ - Automatic Total Calculation: Sums all entered marks.
+ - Percentage Computation: Calculates and formats percentage.
+ - Grade Determination: Uses a grading function based on percentage ranges.
+ - Interactive CLI Interface: Simple text-based input/output.
+ - Error-Free Processing: Reduces manual calculation mistakes.
+
+
+
+
+
+
+
+
